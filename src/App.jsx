@@ -9,7 +9,7 @@ function App() {
       <p className="experience"><strong>Experience:</strong></p>
       <p>Avionics @ Zipline</p>
       <p>Prev. AI Hardware @ Tesla</p>
-      <p className="contacts"><strong>Contacts:</strong></p>
+      <p className="contacts"><strong>Links:</strong></p>
       <p><a href="https://linkedin.com/in/kyleqi-">linkedin.com/in/kyleqi-</a></p>
       <p><a href="https://github.com/kyle-qi">github.com/kyle-qi</a></p>
       <p><a href="mailto:contact@kyleqi.com">contact@kyleqi.com</a></p>

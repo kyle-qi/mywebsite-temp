@@ -8,7 +8,7 @@ function App() {
       <p>This is a temporary landing page</p>
       <p className="experience"><strong>Experience:</strong></p>
       <p>Avionics @ Zipline</p>
-      <p>Prev. AI Hardware @ Tesla</p>
+      <p>Prev. Tesla Bot @ Tesla</p>
       <p className="contacts"><strong>Links:</strong></p>
       <p><a href="https://linkedin.com/in/kyleqi-">linkedin.com/in/kyleqi-</a></p>
       <p><a href="https://github.com/kyle-qi">github.com/kyle-qi</a></p>
